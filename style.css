@@ -12,18 +12,6 @@ h1{
     color: #84020a;
 }
 
-.boton {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #FFFFFF;
-      color: #000000;
-      text-decoration: none;
-      border: none;
-      border-radius: 5px;
-      font-size: 16px;
-      cursor: pointer;
-    }
-
 
 .image-container {
       position: relative;
@@ -46,12 +34,4 @@ h1{
       color: #fff;
       padding: 5px;
       text-align: center;
-    }
-
-    .image-container img:first-child {
-      z-index: 1;
-    }
-
-    .image-container img:last-child {
-      z-index: 2;
     }
